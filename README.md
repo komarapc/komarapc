@@ -65,3 +65,12 @@ Passionate about crafting interactive and intuitive user experiences, I speciali
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
   </a>
 </div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=komarapc&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komarapc&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
