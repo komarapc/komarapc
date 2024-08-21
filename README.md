@@ -2,7 +2,7 @@
 
 I'm Komar, a passionate software developer and tech enthusiast. I currently work as a Freelance Developer. </br>
 With over 4 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
-
+>"Jangan bilang tidak mungkin kepadaku sebelum kamu mati mencobanya." --Muhammad Al-Fatih
 
 # 🚀 Expertise
 
